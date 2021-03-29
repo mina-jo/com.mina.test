@@ -1,0 +1,2 @@
+com/mina/test/springboot/domain/posts/PostsRepositoryTest.java
+ com.mina.test.springboot.domain.posts.PostsRepositoryTest
